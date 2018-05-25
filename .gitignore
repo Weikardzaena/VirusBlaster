@@ -47,4 +47,8 @@ Unreal/MovementTrackingDemo/.vs/
 *.VC.opendb
 *.VC.db
 
-
+# These are files in the Starter Content that are too large to be tracked
+Content/StarterContent/HDRI/
+Content/StarterContent/Maps/Advanced_Lighting.umap
+Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset
+Content/StarterContent/Blueprints/BP_LightStudio.uasset
